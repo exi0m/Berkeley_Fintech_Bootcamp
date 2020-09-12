@@ -1,6 +1,6 @@
 # Berkeley Fintech Bootcamp
 
-![Berkeley Fintech Bootcamp](https://www.paymentsjournal.com/wp-content/uploads/2020/03/1027-scaled.jpg)
+![Berkeley Fintech Bootcamp](./images/68747470733a2f2f7777772e7061796d656e74736a6f75726e616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f313032372d7363616c65642e6a7067.jpeg)
 
 ## Who am I 
 
